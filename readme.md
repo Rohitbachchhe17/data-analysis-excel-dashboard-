@@ -12,6 +12,8 @@ An Ecommerce Sales Analysis Dashboard showcasing proficient data analysis in Mic
 
 # HR Analytics Dashboard
 An HR Analytics Dashboard project that delves into human resources data, providing insights into employee dynamics, attrition trends, and workforce composition. The analysis covers total employees by gender, attrition by department, attrition by employee groups, attrition by marital status, and attrition by job role. This project offers valuable insights for HR professionals seeking to optimize talent management and employee retention strategies
+<img width="2708" height="1302" alt="image" src="https://github.com/user-attachments/assets/a04ead90-8eb1-4a30-8bc0-f1a8dbaf07db" />
+
 
 # Adidas Sales Analysis Dashboard
 Explore the 'Adidas Sales Analysis Dashboard' project, which offers an in-depth analysis of Adidas's sales performance. This analysis includes sales in USD ($), sales by region, and sales by method, providing insights into financial performance and distribution strategies. Additionally, a bar graph visualizes retailer sales and profit, helping to identify key contributors to overall sales and profitability in the sportswear industry
